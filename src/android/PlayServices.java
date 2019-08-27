@@ -33,7 +33,7 @@ public class PlayServices extends CordovaPlugin {
                     response.put("lastUpdateTime", info.lastUpdateTime);
                     callbackContext.success(response);
                     break;
-                case "askToUpdate":
+                case "showUpdateDialog":
                     GoogleApiAvailability googleAPI = GoogleApiAvailability.getInstance();
                     int result = googleAPI.isGooglePlayServicesAvailable(this.cordova.getContext());
                     if (result == UP_TO_DATE) {

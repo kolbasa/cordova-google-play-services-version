@@ -10,8 +10,8 @@ PlayServices.prototype.getVersion = function (success, error) {
     exec(success, error, PLUGIN, 'getVersion', []);
 };
 
-PlayServices.prototype.askToUpdate = function (success, error) {
-    exec(success, error, PLUGIN, 'askToUpdate', []);
+PlayServices.prototype.showUpdateDialog = function (success, error) {
+    exec(success, error, PLUGIN, 'showUpdateDialog', []);
 };
 
 module.exports = new PlayServices();
