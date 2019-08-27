@@ -12,7 +12,7 @@ cordova plugin add https://github.com/kolbasa/cordova-plugin-google-play-service
 
 ## Usage
 
-Fetching Version:
+Query the version:
 ```js
 cordova.plugins.playservices.getVersion(
     function (oVersion) {
@@ -22,6 +22,15 @@ cordova.plugins.playservices.getVersion(
         // error callback
     }
 );
+```
+
+Example result:
+```js
+{
+    versionName: '16.0.89 (040700-239467275)',
+    versionCode: 16089022,
+    lastUpdateTime: 1554936328000 // Unix timestamp
+}
 ```
 
 Prompting the user to update:
