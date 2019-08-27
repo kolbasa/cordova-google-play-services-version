@@ -1,1 +1,1 @@
-# cordova-google-play-services-version
+# cordova-plugin-google-play-services-version

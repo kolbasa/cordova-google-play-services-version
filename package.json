@@ -1,9 +1,9 @@
 {
-  "name": "cordova-google-play-services-version",
+  "name": "cordova-plugin-google-play-services-version",
   "version": "1.0.0",
   "description": "TODO",
   "cordova": {
-    "id": "cordova-google-play-services-version",
+    "id": "cordova-plugin-google-play-services-version",
     "platforms": [
       "android"
     ]
