@@ -3,12 +3,13 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"
         id="cordova-plugin-google-play-services-version" version="1.0.0">
 
-    <name>PlayServices</name>
-    <license>MIT</license>
+    <name>Google Play Services Version</name>
+    <description>This plugin provides the version of Google Play Services.</description>
+    <keywords>google play services,play store,version,update,package</keywords>
+    <repo>https://github.com/kolbasa/cordova-plugin-google-play-services-version</repo>
+    <issue>https://github.com/kolbasa/cordova-plugin-google-play-services-version/issues</issue>
     <author>Michael Jedich</author>
-
-    <description>TODO</description>
-    <keywords>TODO</keywords>
+    <license>MIT</license>
 
     <engines>
         <engine name="cordova" version=">=3.0.0"/>

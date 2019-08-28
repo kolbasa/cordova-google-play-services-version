@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-google-play-services-version",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "This plugin provides the version of Google Play Services.",
   "cordova": {
     "id": "cordova-plugin-google-play-services-version",
     "platforms": [
@@ -19,5 +19,13 @@
     }
   ],
   "author": "Michael Jedich",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolbasa/cordova-google-play-services-version.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kolbasa/cordova-google-play-services-version/issues"
+  },
+  "homepage": "https://github.com/kolbasa/cordova-google-play-services-version#readme"
 }
