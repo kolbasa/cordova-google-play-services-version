@@ -5,7 +5,7 @@
 
     <name>Google Play Services Version</name>
     <description>This plugin provides the currently installed version of Google Play Services.</description>
-    <keywords>google play services,play store,version,update,package</keywords>
+    <keywords>cordova,google play services,play store,version,version-control,version-manager,version-checker,update,update-checker</keywords>
     <repo>https://github.com/kolbasa/cordova-plugin-google-play-services-version</repo>
     <issue>https://github.com/kolbasa/cordova-plugin-google-play-services-version/issues</issue>
     <author>Michael Jedich</author>
