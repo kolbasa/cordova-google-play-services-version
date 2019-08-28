@@ -4,7 +4,7 @@
         id="cordova-plugin-google-play-services-version" version="1.0.0">
 
     <name>Google Play Services Version</name>
-    <description>This plugin provides the version of Google Play Services.</description>
+    <description>This plugin provides the currently installed version of Google Play Services.</description>
     <keywords>google play services,play store,version,update,package</keywords>
     <repo>https://github.com/kolbasa/cordova-plugin-google-play-services-version</repo>
     <issue>https://github.com/kolbasa/cordova-plugin-google-play-services-version/issues</issue>

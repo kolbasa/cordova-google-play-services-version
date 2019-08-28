@@ -1,6 +1,6 @@
 # cordova-plugin-google-play-services-version
 
-This plugin provides the version of Google Play Services.
+This plugin provides the currently installed version of Google Play Services.
 
 In addition, it is able to ask the user to perform an update if the version is not sufficient.
 
