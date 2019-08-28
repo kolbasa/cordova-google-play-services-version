@@ -28,7 +28,7 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/PlayServices.java" target-dir="src/de/kolbasa/playservices"/>
+        <source-file src="src/PlayServices.java" target-dir="src/de/kolbasa/playservices"/>
 
     </platform>
 
