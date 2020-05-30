@@ -5,8 +5,8 @@ This plugin provides the currently installed version of Google Play Services.
 In addition, it is able to ask the user to perform an update if the version is not sufficient.
 
 There are plugins that require a certain version of Google Play Services, for example: [cordova-plugin-background-geolocation](https://github.com/mauron85/cordova-plugin-background-geolocation).
-It is beneficial to develop a fallback strategy if the version is too low. Or you can at least inform the user why some functionality is missing.
 
+It is helpful if you want to build a fallback solution or if you just want to inform the user why some functionality is missing.
 
 ## Installation
 
