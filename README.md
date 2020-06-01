@@ -1,4 +1,4 @@
-# cordova-plugin-google-play-services-version
+# Cordova Google Play Services Version
 
 This plugin provides the currently installed version of Google Play Services.
 
@@ -10,9 +10,7 @@ It is helpful if you want to build a fallback solution or if you just want to in
 
 ## Installation
 
-```
-cordova plugin add https://github.com/kolbasa/cordova-plugin-google-play-services-version
-```
+    cordova plugin add https://github.com/kolbasa/cordova-plugin-google-play-services-version
 
 ## Usage
 
